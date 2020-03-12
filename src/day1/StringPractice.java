@@ -7,5 +7,6 @@ public class StringPractice {
         String str = "Java is fun!";
         System.out.println(str);
         //what
+        //hoe to change this
     }
 }
